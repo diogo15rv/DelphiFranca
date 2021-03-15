@@ -1,4 +1,4 @@
-# Projeto Delphi para a equipe Franca
+# Projeto Delphi para a equipe França
 Teste desenvolvido para a empresa SoftPlan
 
 Projeto desenvolvido de acordo com as solicitações e tentando extrair o máximo em padrões de projeto.
